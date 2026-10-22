@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Silver-Stock : scan +1
 // @namespace    vapcity
-// @version      2.5
-// @downloadURL  none
-// @updateURL    none
+// @version      2.6
+// @downloadURL  https://raw.githubusercontent.com/vapcity/scan-silverstock/main/silverstock-scan.user.js
+// @updateURL    https://raw.githubusercontent.com/vapcity/scan-silverstock/main/silverstock-scan.user.js
 // @description  Scanne un code-barres dans l'inventaire : la quantité de la bonne ligne passe à +1 automatiquement. Compatible Mac et Windows.
 // @match        https://app.silver-stock.fr/*
 // @run-at       document-idle
